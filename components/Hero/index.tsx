@@ -9,7 +9,7 @@ const Hero = () => {
   return (
     <section className="mt-48">
       <h1 className="text-7xl font-bold">
-        Hi, I'm <span className="dark:text-purple-600">Carlosasdasd!</span>
+        Hi, I'm <span className="dark:text-purple-600">Carlos</span>
       </h1>
       <h3 className="text-4xl my-3">Software Engineer</h3>
       <div className="text-xl text-gray-700 mb-8">
