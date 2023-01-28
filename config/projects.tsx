@@ -9,9 +9,9 @@ export interface Project {
 export const projects: Project[] = [
   {
     title: "Portfolio",
-    gitUrl: "https://github.com/karanpratapsingh/HyperTrade",
-    banner: "/projects/webBanner.png",
-    website: "https://github.com/karanpratapsingh/HyperTrade",
+    gitUrl: "https://github.com/crlscontreras/portfolio-nextjs",
+    banner: "/static/images/webBanner.png",
+    website: "https://github.com/crlscontreras/portfolio-nextjs",
     description:
       "The webapp you are seeing right now! You can visit the repository to learn more about it.",
   },
