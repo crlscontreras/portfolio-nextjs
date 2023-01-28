@@ -39,9 +39,22 @@ export default function AuthorLayout() {
         </div>
 
         <div className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2">
-          I created this website to learn and test new frameworks and libraries.{" "}
+          {
+            "Hello! I am a recent Computer Science graduate with a passion for problem-solving and technology."
+          }
           <br />
-          You can find other projects {"I'm"} working on in the {"Projects"}
+          <br />
+          {
+            "Throughout my studies, I gained experience in a variety of programming languages including Javascript/Typescript, C++, Java, and Python."
+          }
+          <br />
+          {
+            "I also have a strong understanding of data structures, algorithms, and software development methodologies."
+          }
+          <br />
+          <br />I created this website to learn and test new frameworks and
+          libraries. <br />
+          You can find other projects {"I'm"} working on in the {"Projects "}
           section.
         </div>
       </div>
