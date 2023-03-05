@@ -25,9 +25,9 @@ export const projects: Project[] = [
   },
   {
     title: "Capstone Project ",
-    gitUrl: "https://github.com/crlscontreras/SpringApiRestTest",
+    gitUrl: "https://github.com/crlscontreras/sistema-comges",
     banner: "/static/images/capstone.PNG",
-    website: "https://github.com/crlscontreras/SpringApiRestTest",
+    website: "https://github.com/crlscontreras/sistema-comges",
     description:
       "The final year assignment to obtain my college degree, in which I worked with the Chilean Health Service to design and build a web application.",
   },
