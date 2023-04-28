@@ -31,4 +31,11 @@ export const projects: Project[] = [
     description:
       "The final year assignment to obtain my college degree, in which I worked with the Chilean Health Service to design and build a web application.",
   },
+  {
+    title: "Task Tracker",
+    gitUrl: "https://github.com/crlscontreras/angular-task-tracker",
+    banner: "/static/images/taskTracker.png",
+    website: "https://github.com/crlscontreras/angular-task-tracker",
+    description: "A minimalist task tracking tool made with Angular.",
+  },
 ];
