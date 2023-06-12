@@ -38,4 +38,20 @@ export const projects: Project[] = [
     website: "https://github.com/crlscontreras/angular-task-tracker",
     description: "A minimalist task tracking tool made with Angular.",
   },
+  {
+    title: "Server Managment Application - Angular Frontend",
+    gitUrl: "https://github.com/crlscontreras/server-frontend",
+    banner: "/static/images/serverFront.PNG",
+    website: "https://github.com/crlscontreras/server-frontend",
+    description:
+      "Angular frontend of the web application to manage servers (with ping capability) and users (Register/Login module).",
+  },
+  {
+    title: "Server Managment Application - Springboot Backend",
+    gitUrl: "https://github.com/crlscontreras/server-backend",
+    banner: "/static/images/serverBack.png",
+    website: "https://github.com/crlscontreras/server-backend",
+    description:
+      "Springboot backend of the web application to manage servers and users. This project demonstrates the implementation of a user authentication and authorization module using JWT and Spring Security. It includes a refresh token mechanism.",
+  },
 ];

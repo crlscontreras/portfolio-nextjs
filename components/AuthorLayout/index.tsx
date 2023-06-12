@@ -1,30 +1,6 @@
 import { Header } from "../Header";
 
 export default function AuthorLayout() {
-  /*
-    <p className="mt-8">
-        <a
-        className="!font-normal !text-black !no-underline dark:!text-white"
-        href={resume}
-        target="_blank"
-        rel="noreferrer"
-        >
-            
-        <RoughNotation
-            show
-            type="box"
-            animationDelay={250}
-            animationDuration={2000}
-            strokeWidth={2}
-            color={"yellow"}
-        >
-            Resume
-        </RoughNotation>
-        
-        </a>
-    </p>
-    */
-
   return (
     <div className="fade-in divide-y-2 divide-gray-100 dark:divide-gray-800">
       <Header title="About" />
@@ -49,7 +25,7 @@ export default function AuthorLayout() {
           }
           <br />
           {
-            "I also have a strong understanding of data structures, algorithms, and software development methodologies."
+            "I also have a good understanding of data structures, algorithms, and software development methodologies."
           }
           <br />
           <br />I created this website to learn and test new frameworks and
